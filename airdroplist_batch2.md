@@ -1,3 +1,5 @@
+the following accounts are in the second airdrop list.
+
 | address | confirm time |
 | ---------- | ---------- |
 | 0xc3b58E1fA36378A53Fa4FC58ac63E1b360BcB265 | 2022-02-01 21:00:08 |

@@ -1,4 +1,5 @@
-the following accounts are in the second airdrop list.
+The following accounts are in the second airdrop list, distributed on Tuesday.
+Registrants whose confirmation after 2022-02-08 20:57:36 (GMT+8) will get airdrop NEXT TUESDAY (2022.02.15),good luck.
 
 | address | confirm time |
 | ---------- | ---------- |

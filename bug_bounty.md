@@ -324,3 +324,7 @@ special thanks to those who helped to find bugs, improve user experence and more
  | 0xD9333AC68598bf5E9cFc0aFD0e800bcEeD5c837e| 2022.03.30 |  bug report ,promotion advice  |
  | 0xEf480cdDa20711F998E78737b422C6ccE9c4f593| 2022.03.30 |  bug report ,promotion advice  |
  | 0xF81D83c469e50c72a6599F971ffd8Deb78A68a1D| 2022.03.30 |  bug report ,promotion advice  |
+ | 0xe64CdeB50b84DBdEf96CdC5bC292c3cF964D1f53| 2022.06.13 |  bug report |
+ | 0xaFbE2f8fC6DF46177D1fD566613ED03d31191585| 2022.06.13 |  bug report |
+ | 0x64B5E2ae53d0279e7314332036F1a7302eAc1E58| 2022.06.13 |  bug report |
+ | 0xd2FE1592527277AF496ed631075552e5F3F6372e| 2022.06.13 |  bug report |
